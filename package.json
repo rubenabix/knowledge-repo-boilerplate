@@ -1,0 +1,23 @@
+{
+  "name": "knowledge-repo-boilerplate",
+  "description": "Boilerplate to author github project at Knowledge.io",
+  "version": "1.0.0",
+  "main": "",
+  "scripts": {
+    "doctoc": "doctoc --github --title \"## Contents\" ./"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "doctoc": "^1.3.0"
+  },
+  "author": "Knowledge - knowledge.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gaboesquivel/knowledge-repo-boilerplate/issues"
+  },
+  "homepage": "https://github.com/gaboesquivel/knowledge-repo-boilerplate",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaboesquivel/knowledge-repo-boilerplate.git"
+  }
+}
