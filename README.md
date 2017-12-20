@@ -30,7 +30,7 @@ Read the [contributing guidelines](CONTRIBUTING.md) for details.
 
 ## License
 
-MIT © [Knowledge](http://knowledge.io)
+MIT © [Knowledge](http://knowledge.io)  
 See LICENSE for more info
 
 
