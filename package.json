@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "main": "",
   "scripts": {
-    "doctoc": "doctoc --github --title \"## Contents\" ./"
+    "doctoc": "doctoc --github --title \"## Contents\" README.md"
   },
   "devDependencies": {},
   "dependencies": {
