@@ -13,11 +13,11 @@
   "author": "Knowledge - knowledge.io",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gaboesquivel/knowledge-repo-boilerplate/issues"
+    "url": "https://github.com/knowledge/knowledge-repo-boilerplate/issues"
   },
-  "homepage": "https://github.com/gaboesquivel/knowledge-repo-boilerplate",
+  "homepage": "https://github.com/knowledge/knowledge-repo-boilerplate",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gaboesquivel/knowledge-repo-boilerplate.git"
+    "url": "git+https://github.com/knowledge/knowledge-repo-boilerplate.git"
   }
 }
