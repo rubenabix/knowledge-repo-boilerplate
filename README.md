@@ -13,6 +13,7 @@ Repo Description goes here
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
+- [Bug Reporting](#bug-reporting)
 - [License](#license)
 - [About Knowledge](#about-knowledge)
 
@@ -29,6 +30,10 @@ Add your getting started instructions here.
 ## Contributing
 
 Read the [contributing guidelines](CONTRIBUTING.md) for details.
+
+## Bug Reporting
+
+Please report bugs big and small by [opening an issue](https://github.com/knowledge/knowledge-repo-Boilerplate/issues/new). No possible bug report is too small.
 
 ## License
 
