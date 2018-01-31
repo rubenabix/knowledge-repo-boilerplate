@@ -11,6 +11,7 @@ Repo Description goes here
 ## Contents
 
 - [Features](#features)
+- [Architecture Overview](#architecture-overview)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [Bug Reporting](#bug-reporting)
@@ -22,6 +23,10 @@ Repo Description goes here
 ## Features
 
 No features yet
+
+## Architecture Overview
+
+Add your architecture diagram and description here
 
 ## Getting Started
 
