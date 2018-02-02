@@ -6,10 +6,10 @@
   "scripts": {
     "doctoc": "doctoc --github --title \"## Contents\" README.md"
   },
-  "devDependencies": {},
-  "dependencies": {
+  "devDependencies": {
     "doctoc": "^1.3.0"
   },
+  "dependencies": {},
   "author": "Knowledge - knowledge.io",
   "license": "MIT",
   "bugs": {
