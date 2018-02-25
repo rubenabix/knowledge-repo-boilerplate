@@ -24,3 +24,7 @@ build
 
 # Documents for development
 __docs
+
+.idea/**/*
+
+dist/**/*

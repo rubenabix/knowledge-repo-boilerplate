@@ -1,0 +1,17 @@
+extends: standard
+parser: babel-eslint
+# rules:
+#  no-trailing-spaces: 1
+#  indent: 1
+#  standard/no-callback-literal: 1
+#  camelcase: 1
+#  no-unused-vars: 1
+#  no-empty-pattern: 1
+#  no-return-await: 1
+plugins:
+  - standard
+  - promise
+  - security
+env:
+  mocha: true
+
